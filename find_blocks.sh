@@ -1,4 +1,4 @@
-./cat_logs.sh | grep "reject:" |\
+./cat_logs.sh | grep -a "reject:" |\
     ./find_ip.pl | sort | uniq | \
     xargs -I{} bash -c "\
     ((sudo iptables -n -L INPUT | sort -k4 -n | awk '{print $4}' | egrep {}) || \
