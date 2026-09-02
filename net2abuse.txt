@@ -3,6 +3,7 @@
 5.175.213.0/24                 abuse@ghostnet.de
 5.181.0.0/24                   abuse@alexhost.com
 5.189.160.0/20                 abuse@contabo.de
+5.83.45.0/24                   abuse@nxthost.com
 8.111.75.0/24                  
 15.204.146.0/24                
 23.239.12.0/24                 
@@ -11,17 +12,21 @@
 31.172.69.0/24                 abuse@fornex.com
 31.177.110.0/24                abuse@smartape.ru
 31.24.158.0/24                 abuse@axarnet.es
+37.221.208.0/24                abuse@atw.co.hu
 37.221.210.0/24                abuse@atw.co.hu
+37.221.213.0/24                abuse@atw.co.hu
 38.145.199.0/24                
 38.145.212.0/24                
 38.145.215.0/24                
 45.128.62.0/24                 abuse@scalabledns.com
 45.13.214.0/24                 abuse@rarecloud.io
 45.136.151.0/24                abuse@scalabledns.com
+45.148.28.0/24                 support@webdock.io
 45.32.128.0/24                 
 45.33.2.0/24                   
 45.63.16.0/24                  
 45.66.157.0/24                 abuse@scalabledns.com
+45.76.33.0/24                  
 45.77.136.0/24                 
 45.79.126.0/24                 
 45.92.70.0/24                  abuse@gcore.lu
@@ -77,7 +82,9 @@
 89.34.24.0/24                  abuse@hzone.ro
 89.34.25.0/24                  abuse@hzone.ro
 89.41.182.0/24                 abuse@hzone.ro
+91.184.249.0/24                abuse@smartape.net
 91.184.250.0/24                abuse@smartape.net
+91.199.147.0/24                abuse@smartape.net
 91.219.150.0/24                abuse@smartape.ru
 91.235.234.0/24                abuse@bluevps.com
 92.118.26.0/24                 abuse@gyumolcstarhely.hu
@@ -108,6 +115,7 @@ abuse@worldhost.group
 104.243.37.0/24                
 104.243.42.0/24                
 104.250.173.0/24               
+109.172.8.0/24                 abuse@smartape.net
 109.61.41.0/24                 abuse@gcore.lu
 116.251.216.0/24               abuse@oneasiahost.com
 119.59.124.0/24                abuse@metrabyte.cloud
@@ -124,11 +132,14 @@ abuse@worldhost.group
 141.195.117.0/24               
 141.195.119.0/24               
 142.248.180.0/24               
+143.202.162.0/24               
 147.124.199.0/24               
 147.189.0.0/24                 
 147.189.169.0/24               
 147.189.172.0/24               
+148.135.106.0/24               
 149.28.213.0/24                
+149.72.162.0/24                
 154.29.75.0/24                 
 154.58.229.0/24                
 157.228.140.0/24               
@@ -145,13 +156,18 @@ abuse@worldhost.group
 172.105.39.0/24                
 172.105.49.0/24                
 172.245.43.0/24                
+172.96.9.0/24                  
+173.224.118.0/24               
 173.224.125.0/24               
 176.102.67.0/24                abuse@securitynet.cz
 178.105.176.0/24               abuse@hetzner.com
+178.218.160.0/24               abuse@plus.hr
 185.116.215.0/24               abuse@krystal.io
 185.117.249.0/24               abuse@dogado.de
 185.148.144.0/24               info@qhoster.com
 185.169.99.0/24                registro@homehost.com.br
+185.203.18.0/24                abuse@setcor.com
+185.234.9.0/24                 abuse@o2dc.com
 185.247.208.0/24               abuse@deltahost.com.ua
 185.248.160.0/24               abuse@seedvps.com
 185.249.196.0/24               abuse@zap-hosting.com
@@ -169,6 +185,7 @@ abuse@worldhost.group
 185.87.51.0/24                 audit@power-servers.net
 185.92.223.0/24                abuse@vultr.com
 185.99.232.0/24                abuse@ciberconceito.com
+188.164.198.0/24               abuse@axarnet.es
 190.97.165.0/24                
 191.101.59.0/24                
 192.119.110.0/24               
