@@ -95,6 +95,7 @@
 91.184.249.0/24                abuse@smartape.net  
 91.184.250.0/24                abuse@smartape.net  
 91.199.147.0/24                abuse@smartape.net  
+91.202.5.0/24                  abuse@sollutium.com  
 91.219.150.0/24                abuse@smartape.ru  
 91.235.234.0/24                abuse@bluevps.com  
 92.61.70.0/24                  abuse@smartape.net  
@@ -138,6 +139,7 @@
 135.148.42.0/24                
 136.152.250.0/24               
 137.184.151.0/24               
+138.226.247.0/24               
 139.99.160.0/24                
 141.133.174.0/24               
 141.195.117.0/24                abuse@radwebhosting.com
@@ -198,7 +200,7 @@
 185.255.21.0/24                dpto.tecnico@ispgestion.com  
 188.164.198.0/24               abuse@axarnet.es  
 190.97.165.0/24                
-191.101.59.0/24                
+191.101.59.0/24                report@abuseradar.com  
 192.65.20.0/24                 
 192.119.110.0/24               
 192.210.216.0/24               
