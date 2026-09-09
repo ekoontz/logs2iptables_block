@@ -37,6 +37,7 @@
 46.28.68.0/24                  abuse@route95.net  
 46.36.35.0/24                  abuse@gtt-as.cz  
 46.36.38.0/24                  abuse@gtt-as.cz  
+46.36.40.0/24                  abuse@gtt-as.cz  
 46.224.20.0/24                 abuse@hetzner.com  
 50.2.0.0/15                     net-admin@eonix.net net-admin@eonix.net
 51.38.95.0/24                  abuse@ovh.net  
@@ -83,7 +84,9 @@
 85.137.166.0/24                abuse@smartape.net  
 85.137.249.0/24                abuse@alexhost.com  
 85.190.99.0/24                 abuse@dogado.de  
+85.190.105.0/24                abuse@dogado.de  
 85.237.203.0/24                report@abuseradar.com  
+88.214.59.0/24                 abuse@zap-hosting.com  
 88.218.28.0/24                 abuse@hostprolab.com.ua  
 89.34.24.0/24                  abuse@hzone.ro  
 89.34.25.0/24                  abuse@hzone.ro  
