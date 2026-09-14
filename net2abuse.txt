@@ -29,28 +29,28 @@
 45.77.136.0                     abuse@constant.com abuse@vultr.com
 45.79.126.0                     abuse@akamai.com abuse@linode.com
 45.79.208.0                     abuse@akamai.com abuse@linode.com
-45.92.70.0                     abuse@gcore.lu
-45.128.62.0                    abuse@scalabledns.com
-45.136.151.0                   abuse@scalabledns.com
-45.148.28.0                    support@webdock.io
-46.22.209.0                    abuse@wavecom.ee
-46.28.68.0                     abuse@route95.net
-46.36.35.0                     abuse@gtt-as.cz
-46.36.38.0                     abuse@gtt-as.cz
-46.36.40.0                     abuse@gtt-as.cz
-46.224.20.0                    abuse@hetzner.com
+45.92.70.0
+45.128.62.0
+45.136.151.0
+45.148.28.0
+46.22.209.0
+46.28.68.0
+46.36.35.0
+46.36.38.0
+46.36.40.0
+46.224.20.0
 50.2.0.0/15                     net-admin@eonix.net net-admin@eonix.net
-51.38.95.0                     didkovskavaleriia@gmail.com
-51.77.102.0                    abuse@ovh.net
-51.161.0.0/16                  51.162.127.255
-51.162.0.0/17                  51.162.127.255
+51.38.95.0
+51.77.102.0
+51.161.0.0/16
+51.162.0.0/17
 63.143.38.0                     abuse@limestonenetworks.com abuse@limestonenetworks.com
 64.50.188.0                     net-abuse-global@hostpapa.com report@abuseradar.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
 64.235.39.0                     noc@serverpoint.com
 64.235.46.0                     noc@serverpoint.com noc@serverpoint.com
-65.98.5.0                      abuse@worldhost.group   abuse@ripe.net
-65.181.118.0                   abuse@worldhost.group   abuse@ripe.net
-65.181.122.0                   abuse@worldhost.group   abuse@ripe.net
+65.98.5.0                       abuse@ripe.net
+65.181.118.0                    abuse@ripe.net
+65.181.122.0                    abuse@ripe.net
 67.205.23.0                     domain-abuse@dreamhost.com domain-abuse@dreamhost.com
 69.10.37.0                      abusencc@interserver.net
 69.10.58.0                      abusencc@interserver.net bgoldin@hotmail.com
@@ -58,61 +58,62 @@
 72.18.200.0                     noc@serverpoint.com noc@serverpoint.com
 74.48.78.0                      abuse@telus.com abuse@multacom.com
 74.125.227.0                    network-abuse@google.com
-77.32.148.0                    abuse@brevo.com
-77.42.64.0                     abuse@hetzner.com
-77.81.244.0                    abuse@elvsoft.com
-78.27.235.0                    noc@mirohost.net
-78.27.236.0                    noc@mirohost.net
-78.135.77.0                    abuse@netlen.com.tr
-79.98.111.0                    abuse@delta.bg
-79.132.141.0                   abuse@fornex.com
-79.133.123.0                   abuse@gcore.lu
-79.133.202.0                   abuse@etop.pl
-80.79.126.0                    abuse@wavecom.ee
-80.96.45.0                     abuse-virtono@rnc.ro
-80.97.44.0                     abuse-virtono@rnc.ro
-81.88.19.0                     abuse@dogado.de
-81.88.25.0                     abuse@dogado.de
-81.88.26.0                     abuse@dogado.de
-81.181.107.0                   abuse-virtono@rnc.ro
-82.118.16.0                    abuse@route95.net
-84.32.244.0                    report@abuseradar.com
-85.121.215.0                   abuse-urban@rnc.ro
-85.121.240.0                   abuse-urban@rnc.ro
-85.137.51.0                    abuse@v-sys.org
-85.137.53.0                    abuse-ams@v-sys.org
-85.137.58.0                    abuse-ams@v-sys.org
-85.137.165.0                   abuse@smartape.net
-85.137.166.0                   abuse@smartape.net
-85.137.249.0                   abuse@alexhost.com
-85.190.99.0                    abuse@dogado.de
-85.190.105.0                   abuse@dogado.de
-85.237.203.0                   report@abuseradar.com
-88.214.59.0                    abuse@zap-hosting.com
-88.218.28.0                    abuse@hostprolab.com.ua
-89.34.24.0                     abuse@hzone.ro
-89.34.25.0                     abuse@hzone.ro
-89.41.182.0                    abuse@hzone.ro
-89.106.74.0                    abuse@ghostnet.de
-89.126.248.0                   abuse@1984.is
-89.126.249.0                   abuse@1984.is
-91.98.224.0                    abuse@hetzner.com
-91.184.249.0                   abuse@smartape.net
-91.184.250.0                   abuse@smartape.net
-91.199.147.0                   abuse@smartape.net
-91.202.5.0                     abuse@sollutium.com
-91.219.150.0                   abuse@smartape.ru
-91.235.234.0                   abuse@bluevps.com
-92.61.70.0                     abuse@smartape.net
-92.61.71.0                     abuse@smartape.net
-92.118.26.0                    abuse@gyumolcstarhely.hu
-93.95.227.0                    abuse@1984.is
-93.95.228.0                    abuse@1984.is
-93.99.105.0                    abuse@vodafone.cz
-94.142.140.0                   audit@power-servers.net
-94.142.142.0                   audit@power-servers.net
-94.247.177.0                   abuse@magic.fr
-95.81.124.0                    audit@power-servers.net
+77.32.148.0
+77.42.64.0
+77.81.244.0
+78.27.235.0
+78.27.236.0
+78.135.77.0
+79.98.111.0
+79.132.141.0
+79.133.123.0
+79.133.202.0
+80.79.126.0
+80.96.45.0
+80.97.44.0
+81.88.19.0
+81.88.25.0
+81.88.26.0
+81.181.107.0
+82.118.16.0
+84.32.244.0
+85.121.215.0
+85.121.240.0
+85.137.51.0
+85.137.53.0
+85.137.58.0
+85.137.165.0
+85.137.166.0
+85.137.167.0
+85.137.249.0
+85.190.99.0
+85.190.105.0
+85.237.203.0
+88.214.59.0
+88.218.28.0
+89.34.24.0
+89.34.25.0
+89.41.182.0
+89.106.74.0
+89.126.248.0
+89.126.249.0
+91.98.224.0
+91.184.249.0
+91.184.250.0
+91.199.147.0
+91.202.5.0
+91.219.150.0
+91.235.234.0
+92.61.70.0
+92.61.71.0
+92.118.26.0
+93.95.227.0
+93.95.228.0
+93.99.105.0
+94.142.140.0
+94.142.142.0
+94.247.177.0
+95.81.124.0
 102.203.81.0                   102.203.81.255
 102.203.82.0                   102.203.82.255
 102.206.117.0                  102.206.117.255
@@ -120,9 +121,9 @@
 102.213.7.0                    102.213.7.255
 103.16.181.0                   abuse@rimuhosting.com
 103.85.28.0                    noc@vetta.net
-103.118.16.0                   no-email@apnic.net abuse@worldhost.group
+103.118.16.0                   no-email@apnic.net
 103.135.230.0                  hello@hostitsmart.in
-103.138.188.0                  no-email@apnic.net abuse@worldhost.group
+103.138.188.0                  no-email@apnic.net
 103.157.26.0                   abuse@linkgo.co.id
 103.207.180.0                  abuse@ipxchange.net
 104.128.239.0                   abuse@hostus.us
@@ -133,36 +134,36 @@
 104.243.37.0                    abuse@reliablesite.net abuse@reliablesite.net
 104.243.42.0                    abuse@reliablesite.net abuse@reliablesite.net
 104.250.173.0                   abuse@virtualine.org admin@pointtoserver.com
-109.61.41.0                    abuse@gcore.lu
-109.172.8.0                    abuse@smartape.net
+109.61.41.0
+109.172.8.0
 116.251.216.0                  abuse@oneasiahost.com
 119.59.124.0                   abuse@metrabyte.cloud
 125.227.47.0                   abuse@hinet.net
 129.226.197.0                  abuse@tencent.com   search-apnic-not-arin@apnic.net
 130.51.100.0                    abuse@aweb.gr
 130.51.103.0                    abuse@aweb.gr
-131.123.35.0                   abuse@alexhost.com   abuse@ripe.net
+131.123.35.0                    abuse@ripe.net
 135.148.42.0                    abuse@ovh.us abuse@ovh.us
 136.152.250.0                   abuse@security.berkeley.edu
 137.184.151.0                   abuse@digitalocean.com
-138.226.247.0                  abuse@sollutium.com   abuse@ripe.net
+138.226.247.0                   abuse@ripe.net
 139.99.160.0                    abuse@ovh.ca noc@ovh.net noc@ovh.net
-141.133.174.0                  abuse@smartape.net   abuse@ripe.net
+141.133.174.0                   abuse@ripe.net
 141.195.117.0                   abuse@radwebhosting.com abuse@radwebhosting.com
 141.195.119.0                   abuse@radwebhosting.com abuse@radwebhosting.com
 142.248.180.0                   abuse@scalahosting.com abuse@scalahosting.com
 143.202.162.0                   abuse@lacnic.net
 147.124.199.0                   abuse-team@tier.net
-147.189.0.0                    abuse@eurotunnel.com   abuse@ripe.net
-147.189.169.0                  abuse@zap-hosting.com   abuse@ripe.net
-147.189.172.0                  abuse@zap-hosting.com   abuse@ripe.net
-148.135.22.0                   report@abuseradar.com   abuse@ripe.net
-148.135.106.0                  report@abuseradar.com   abuse@ripe.net
+147.189.0.0                     abuse@ripe.net
+147.189.169.0                   abuse@ripe.net
+147.189.172.0                   abuse@ripe.net
+148.135.22.0                    abuse@ripe.net
+148.135.106.0                   abuse@ripe.net
 149.28.213.0                    abuse@constant.com abuse@vultr.com
-151.247.171.0                  mansiyadav@mainvps.net   abuse@ripe.net
+151.247.171.0                   abuse@ripe.net
 154.29.75.0                    154.29.255.255
 154.58.229.0                   154.58.255.255
-157.228.140.0                  audit@power-servers.net   abuse@ripe.net
+157.228.140.0                   abuse@ripe.net
 162.246.21.0                    abusencc@interserver.net
 162.246.22.0                    abusencc@interserver.net bgoldin@hotmail.com
 162.246.23.0                    abusencc@interserver.net
@@ -179,34 +180,34 @@
 172.245.43.0                    net-abuse-global@hostpapa.com net-abuse-global@hostpapa.com
 173.224.118.0                   abuse@velia.net
 173.224.125.0                   abuse@velia.net
-176.102.67.0                   abuse@securitynet.cz
-178.105.176.0                  abuse@hetzner.com
-178.218.160.0                  abuse@plus.hr
-185.5.249.0                    audit@power-servers.net
-185.5.251.0                    audit@power-servers.net
-185.48.248.0                   noc@eserver.sk
-185.48.249.0                   noc@eserver.sk
-185.52.207.0                   abuse@delta.bg
-185.59.103.0                   abuse@sim-networks.com
-185.62.75.0                    abuse@setcor.com
-185.87.48.0                    audit@power-servers.net
-185.87.49.0                    audit@power-servers.net
-185.87.50.0                    audit@power-servers.net
-185.87.51.0                    audit@power-servers.net
-185.92.223.0                   abuse@vultr.com
-185.99.232.0                   abuse@ciberconceito.com
-185.116.215.0                  abuse@krystal.io
-185.117.249.0                  abuse@dogado.de
-185.148.144.0                  info@qhoster.com
-185.169.99.0                   registro@homehost.com.br
-185.176.220.0                  abuse@2cloud.eu
-185.203.18.0                   abuse@setcor.com
-185.234.9.0                    abuse@alexhost.com
-185.247.208.0                  abuse@deltahost.com.ua
-185.248.160.0                  abuse@seedvps.com
-185.249.196.0                  abuse@zap-hosting.com
-185.255.21.0                   dpto.tecnico@ispgestion.com
-188.164.198.0                  abuse@axarnet.es
+176.102.67.0
+178.105.176.0
+178.218.160.0
+185.5.249.0
+185.5.251.0
+185.48.248.0
+185.48.249.0
+185.52.207.0
+185.59.103.0
+185.62.75.0
+185.87.48.0
+185.87.49.0
+185.87.50.0
+185.87.51.0
+185.92.223.0
+185.99.232.0
+185.116.215.0
+185.117.249.0
+185.148.144.0
+185.169.99.0
+185.176.220.0
+185.203.18.0
+185.234.9.0
+185.247.208.0
+185.248.160.0
+185.249.196.0
+185.255.21.0
+188.164.198.0
 190.97.165.0
 191.101.59.0                   report@abuseradar.com
 192.65.20.0                     abuse@elasticemail.net
@@ -214,23 +215,23 @@
 192.210.216.0                   net-abuse-global@hostpapa.com
 192.227.244.0                   net-abuse-global@hostpapa.com
 192.236.147.0                   net-abuse-global@hostpapa.com
-193.177.0.0                    abuse@alexhost.com
-193.180.208.0                  support@webdock.io
-193.181.210.0                  support@webdock.io
-193.181.216.0                  support@webdock.io
-193.181.217.0                  support@webdock.io
-194.36.45.0                    abuse@setcor.com
-194.156.89.0                   abuse@zap-hosting.com
-194.156.90.0                   abuse@zap-hosting.com
-195.62.47.0                    abuse@zap-hosting.com
-195.211.96.0                   abuse@route95.net
-195.211.99.0                   abuse@route95.net
-195.250.21.0                   abuse@worldhost.group
-198.38.84.0                    abuse@worldhost.group   abuse@ripe.net
-198.244.175.0                  abuse@ovh.net   abuse@ripe.net
+193.177.0.0
+193.180.208.0
+193.181.210.0
+193.181.216.0
+193.181.217.0
+194.36.45.0
+194.156.89.0
+194.156.90.0
+195.62.47.0
+195.211.96.0
+195.211.99.0
+195.250.21.0
+198.38.84.0                     abuse@ripe.net
+198.244.175.0                   abuse@ripe.net
 199.80.55.0                     abuse@webzilla.com abuse@webzilla.com
 199.101.50.0                    abusesupport@dotblock.com abuse@dotblock.com
 199.255.96.0                    admin@axedale.com abuse.reports@cloudcone.com
 206.54.190.0                    root@dfw.net abuse@webzilla.com
 206.72.194.0                    abusencc@interserver.net bgoldin@hotmail.com
-217.79.184.0                   abuse@myloc.de
+217.79.184.0
