@@ -83,6 +83,7 @@
 85.137.51.0                    abuse@v-sys.org
 85.137.53.0                    abuse-ams@v-sys.org
 85.137.58.0                    abuse-ams@v-sys.org
+85.137.165.0                   abuse@smartape.net
 85.137.166.0                   abuse@smartape.net
 85.137.249.0                   abuse@alexhost.com
 85.190.99.0                    abuse@dogado.de
@@ -207,7 +208,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0                   report@abuseradar.com
+191.101.59.0
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
