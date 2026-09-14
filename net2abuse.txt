@@ -61,6 +61,7 @@
 77.32.148.0                    abuse@brevo.com
 77.42.64.0                     abuse@hetzner.com
 77.81.244.0                    abuse@elvsoft.com
+77.83.103.0                    abuse@hostprolab.com.ua
 78.27.235.0                    noc@mirohost.net
 78.27.236.0                    noc@mirohost.net
 78.135.77.0                    abuse@netlen.com.tr
@@ -158,7 +159,6 @@
 148.135.22.0                   report@abuseradar.com   abuse@ripe.net
 148.135.106.0                  report@abuseradar.com   abuse@ripe.net
 149.28.213.0                    abuse@constant.com abuse@vultr.com
-149.72.162.0                    abuse@sendgrid.com
 151.247.171.0                  mansiyadav@mainvps.net   abuse@ripe.net
 154.29.75.0                    154.29.255.255
 154.58.229.0                   154.58.255.255
@@ -207,7 +207,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0
+191.101.59.0                   report@abuseradar.com
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
