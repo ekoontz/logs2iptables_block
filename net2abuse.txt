@@ -51,6 +51,7 @@
 51.162.0.0/17                  51.162.127.255
 63.143.38.0                     abuse@limestonenetworks.com abuse@limestonenetworks.com
 64.50.188.0                     net-abuse-global@hostpapa.com report@abuseradar.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
+64.235.34.0                     noc@serverpoint.com
 64.235.39.0                     noc@serverpoint.com
 64.235.46.0                     noc@serverpoint.com noc@serverpoint.com
 65.98.5.0                      abuse@worldhost.group   abuse@ripe.net

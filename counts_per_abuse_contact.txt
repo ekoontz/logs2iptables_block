@@ -99,9 +99,9 @@
       4 abuse@gtt-as.cz
       4 abuse@route95.net
       4 abuse@scalabledns.com
-      4 noc@serverpoint.com
       5 abuse@1984.is
       5 abuse@reliablesite.net
+      5 noc@serverpoint.com
       6 abuse@alexhost.com
       6 abuse@constant.com
       6 abuse@dogado.de
