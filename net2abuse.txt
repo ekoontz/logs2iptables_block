@@ -20,6 +20,7 @@
 37.221.208.0                   abuse@atw.co.hu
 37.221.210.0                   abuse@atw.co.hu
 37.221.213.0                   abuse@atw.co.hu
+38.127.61.0                     abuse@cogentco.com abuse@cogentco.com
 38.145.199.0                    abuse@cogentco.com abuse@cogentco.com
 38.145.212.0                    abuse@cogentco.com abuse@cogentco.com
 38.145.215.0                    abuse@cogentco.com abuse@cogentco.com
@@ -51,7 +52,7 @@
 51.162.0.0/17                  51.162.127.255
 63.143.38.0                     abuse@limestonenetworks.com abuse@limestonenetworks.com
 64.50.188.0                     net-abuse-global@hostpapa.com report@abuseradar.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
-64.235.34.0                     noc@serverpoint.com
+64.235.34.0                     noc@serverpoint.com noc@serverpoint.com
 64.235.39.0                     noc@serverpoint.com
 64.235.46.0                     noc@serverpoint.com noc@serverpoint.com
 65.98.5.0                      abuse@worldhost.group   abuse@ripe.net
@@ -61,6 +62,7 @@
 69.10.37.0                      abusencc@interserver.net
 69.10.58.0                      abusencc@interserver.net bgoldin@hotmail.com
 69.72.31.0                      abuse@elasticemail.net
+72.14.147.0                     jamesl@mythostech.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
 72.18.200.0                     noc@serverpoint.com noc@serverpoint.com
 74.48.78.0                      abuse@telus.com abuse@multacom.com
 74.125.227.0                    network-abuse@google.com
@@ -146,6 +148,7 @@
 109.61.41.0                    abuse@gcore.lu
 109.172.8.0                    abuse@smartape.net
 116.251.216.0                  abuse@oneasiahost.com
+119.59.101.0                   abuse@metrabyte.cloud
 119.59.124.0                   abuse@metrabyte.cloud
 125.227.47.0                   abuse@hinet.net
 129.226.197.0                  abuse@tencent.com   search-apnic-not-arin@apnic.net
@@ -187,6 +190,7 @@
 170.205.19.0                    abuse@rightservers.com abuse@rightservers.com
 170.249.234.0                   abuse@privatesystems.net abuse@privatesystems.net
 172.96.9.0                      contact@heymman.com contact@heymman.com
+172.104.24.0                    abuse@akamai.com abuse@linode.com
 172.105.39.0                    abuse@akamai.com abuse@linode.com
 172.105.49.0                    abuse@akamai.com abuse@linode.com
 172.105.189.0                   abuse@akamai.com abuse@linode.com
@@ -203,6 +207,7 @@
 185.52.207.0                   abuse@delta.bg
 185.59.103.0                   abuse@sim-networks.com
 185.62.75.0                    abuse@setcor.com
+185.67.0.0                     abuse@hostprolab.com.ua
 185.87.48.0                    audit@power-servers.net
 185.87.49.0                    audit@power-servers.net
 185.87.50.0                    audit@power-servers.net
