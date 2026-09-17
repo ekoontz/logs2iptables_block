@@ -20,6 +20,7 @@
       1 abuse@eurotunnel.com
       1 abuse@gyumolcstarhely.hu
       1 abuse@hinet.net
+      1 abuse@hostprolab.com.ua
       1 abuse@hostus.us
       1 abuse@ipxchange.net
       1 abuse@krystal.io
@@ -73,8 +74,6 @@
       2 abuse@delta.bg
       2 abuse@elasticemail.net
       2 abuse@fornex.com
-      2 abuse@hostprolab.com.ua
-      2 abuse@metrabyte.cloud
       2 abuse@ovh.net
       2 abuse@ovh.us
       2 abuse@radwebhosting.com
@@ -91,6 +90,7 @@
       2 no-email@apnic.net
       3 abuse@atw.co.hu
       3 abuse@hzone.ro
+      3 abuse@metrabyte.cloud
       3 abuse@setcor.com
       3 abuse-virtono@rnc.ro
       3 noc@mirohost.net
@@ -105,11 +105,11 @@
       5 noc@serverpoint.com
       6 abuse@alexhost.com
       6 abuse@constant.com
-      6 abuse@dogado.de
       6 abuse@hetzner.com
       6 abusencc@interserver.net
       6 abuse@worldhost.group
       6 support@webdock.io
+      7 abuse@dogado.de
       7 abuse@zap-hosting.com
       7 report@abuseradar.com
       8 abuse@akamai.com

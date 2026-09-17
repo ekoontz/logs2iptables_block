@@ -96,6 +96,7 @@
 85.137.167.0                   abuse@smartape.net
 85.137.249.0                   abuse@alexhost.com
 85.190.99.0                    abuse@dogado.de
+85.190.102.0                   abuse@dogado.de
 85.190.105.0                   abuse@dogado.de
 85.237.203.0                   report@abuseradar.com
 88.214.59.0                    abuse@zap-hosting.com
@@ -149,6 +150,7 @@
 109.172.8.0                    abuse@smartape.net
 116.251.216.0                  abuse@oneasiahost.com
 119.59.101.0                   abuse@metrabyte.cloud
+119.59.113.0                   abuse@metrabyte.cloud
 119.59.124.0                   abuse@metrabyte.cloud
 125.227.47.0                   abuse@hinet.net
 129.226.197.0                  abuse@tencent.com   search-apnic-not-arin@apnic.net
@@ -207,7 +209,6 @@
 185.52.207.0                   abuse@delta.bg
 185.59.103.0                   abuse@sim-networks.com
 185.62.75.0                    abuse@setcor.com
-185.67.0.0                     abuse@hostprolab.com.ua
 185.87.48.0                    audit@power-servers.net
 185.87.49.0                    audit@power-servers.net
 185.87.50.0                    audit@power-servers.net
