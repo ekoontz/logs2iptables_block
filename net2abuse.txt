@@ -83,6 +83,7 @@
 81.88.19.0                     abuse@dogado.de
 81.88.25.0                     abuse@dogado.de
 81.88.26.0                     abuse@dogado.de
+81.181.66.0                    abuse-clouddatahosting@rnc.ro
 81.181.107.0                   abuse-virtono@rnc.ro
 82.118.16.0                    abuse@route95.net
 84.32.244.0                    report@abuseradar.com
@@ -148,6 +149,7 @@
 104.250.173.0                   abuse@virtualine.org admin@pointtoserver.com
 109.61.41.0                    abuse@gcore.lu
 109.172.8.0                    abuse@smartape.net
+109.238.94.0                   abuse@smartape.net
 116.251.216.0                  abuse@oneasiahost.com
 119.59.101.0                   abuse@metrabyte.cloud
 119.59.113.0                   abuse@metrabyte.cloud
@@ -221,6 +223,7 @@
 185.169.99.0                   registro@homehost.com.br
 185.176.220.0                  abuse@2cloud.eu
 185.203.18.0                   abuse@setcor.com
+185.228.26.0                   abuse@delta.bg
 185.234.9.0                    abuse@alexhost.com
 185.247.208.0                  abuse@deltahost.com.ua
 185.248.160.0                  abuse@seedvps.com
