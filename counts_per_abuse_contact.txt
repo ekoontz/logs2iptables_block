@@ -9,7 +9,6 @@
       1 abuse@2cloud.eu
       1 abuse@bluevps.com
       1 abuse@brevo.com
-      1 abuse@catalysthost.com
       1 abuse@ciberconceito.com
       1 abuse@contabo.de
       1 abuse@deltahost.com.ua
@@ -45,7 +44,6 @@
       1 abuse-team@tier.net
       1 abuse@telus.com
       1 abuse@tencent.com
-      1 abuse@virtono.com
       1 abuse@virtualine.org
       1 abuse@vodafone.cz
       1 abuse@v-sys.org
@@ -72,6 +70,7 @@
       2 abuse-ams@v-sys.org
       2 abuse@aweb.gr
       2 abuse@axarnet.es
+      2 abuse@catalysthost.com
       2 abuse-clouddatahosting@rnc.ro
       2 abuse@elasticemail.net
       2 abuse@fornex.com
