@@ -65,7 +65,7 @@
 69.72.31.0                      abuse@elasticemail.net
 72.14.147.0                     jamesl@mythostech.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
 72.18.200.0                     noc@serverpoint.com noc@serverpoint.com
-74.48.78.0                      abuse@telus.com abuse@ipxo.com report@abuseradar.com
+74.48.78.0                      abuse@telus.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
 74.125.227.0                    network-abuse@google.com
 77.32.148.0                    abuse@brevo.com
 77.42.64.0                     abuse@hetzner.com
@@ -167,7 +167,7 @@
 137.184.151.0                   abuse@digitalocean.com
 138.226.247.0                  abuse@sollutium.com   abuse@ripe.net
 139.84.169.0                    abuse@constant.com abuse@vultr.com
-139.99.160.0                    abuse@ovh.ca noc@ovh.net
+139.99.160.0                    abuse@ovh.ca noc@ovh.net noc@ovh.net
 141.133.174.0                  abuse@smartape.net   abuse@ripe.net
 141.195.117.0                   abuse@radwebhosting.com abuse@radwebhosting.com
 141.195.119.0                   abuse@radwebhosting.com abuse@radwebhosting.com
@@ -236,7 +236,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0                   report@abuseradar.com
+191.101.59.0
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
