@@ -101,6 +101,7 @@
 85.190.102.0                   abuse@dogado.de
 85.190.105.0                   abuse@dogado.de
 85.237.203.0                   report@abuseradar.com
+87.117.247.0                   abuse@rapidswitch.com
 88.214.59.0                    abuse@zap-hosting.com
 88.218.28.0                    abuse@hostprolab.com.ua
 89.34.24.0                     abuse@hzone.ro
@@ -173,6 +174,7 @@
 141.195.119.0                   abuse@radwebhosting.com abuse@radwebhosting.com
 142.248.180.0                   abuse@scalahosting.com abuse@scalahosting.com
 143.202.162.0                   abuse@lacnic.net
+146.20.14.0                     abuse@rackspace.com
 147.124.199.0                   abuse-team@tier.net
 147.189.0.0                    abuse@eurotunnel.com   abuse@ripe.net
 147.189.169.0                  abuse@zap-hosting.com   abuse@ripe.net
