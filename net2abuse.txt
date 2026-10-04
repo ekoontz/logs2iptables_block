@@ -46,6 +46,7 @@
 46.36.40.0                     abuse@gtt-as.cz
 46.36.44.0                     abuse@gtt-as.cz
 46.224.20.0                    abuse@hetzner.com
+47.245.195.0                    abuse@alibaba-inc.com
 50.2.0.0/15                     net-admin@eonix.net net-admin@eonix.net
 51.38.95.0                     didkovskavaleriia@gmail.com
 51.77.102.0                    abuse@ovh.net
@@ -238,7 +239,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0
+191.101.59.0                   report@abuseradar.com
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
