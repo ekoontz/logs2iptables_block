@@ -35,7 +35,6 @@
       1 abuse@ovh.ca
       1 abuse@plus.hr
       1 abuse@rackspace.com
-      1 abuse@rapidswitch.com
       1 abuse@rarecloud.io
       1 abuse@rimuhosting.com
       1 abuse@security.berkeley.edu
@@ -81,9 +80,9 @@
       2 abuse@ovh.us
       2 abuse@privatesystems.net
       2 abuse@radwebhosting.com
+      2 abuse@rapidswitch.com
       2 abuse@rightservers.com
       2 abuse@scalahosting.com
-      2 abuse@smartape.ru
       2 abuse@sollutium.com
       2 abuse-urban@rnc.ro
       2 abuse@velia.net
@@ -120,4 +119,3 @@
       8 abuse@akamai.com
       9 net-abuse-global@hostpapa.com
      10 audit@power-servers.net
-     11 abuse@smartape.net

@@ -16,7 +16,6 @@
 23.254.128.0/17                 net-abuse-global@hostpapa.com
 31.24.158.0                    abuse@axarnet.es
 31.172.69.0                    abuse@fornex.com
-31.177.110.0                   abuse@smartape.ru
 37.143.61.0                    report@abuseradar.com
 37.221.208.0                   abuse@atw.co.hu
 37.221.210.0                   abuse@atw.co.hu
@@ -74,6 +73,7 @@
 78.27.235.0                    noc@mirohost.net
 78.27.236.0                    noc@mirohost.net
 78.27.237.0                    noc@mirohost.net
+78.129.138.0                   abuse@rapidswitch.com
 78.135.77.0                    abuse@netlen.com.tr
 79.98.111.0                    abuse@delta.bg
 79.132.141.0                   abuse@fornex.com
@@ -94,9 +94,6 @@
 85.137.51.0                    abuse@v-sys.org
 85.137.53.0                    abuse-ams@v-sys.org
 85.137.58.0                    abuse-ams@v-sys.org
-85.137.165.0                   abuse@smartape.net
-85.137.166.0                   abuse@smartape.net
-85.137.167.0                   abuse@smartape.net
 85.137.249.0                   abuse@alexhost.com
 85.190.99.0                    abuse@dogado.de
 85.190.102.0                   abuse@dogado.de
@@ -112,14 +109,8 @@
 89.126.248.0                   abuse@1984.is
 89.126.249.0                   abuse@1984.is
 91.98.224.0                    abuse@hetzner.com
-91.184.249.0                   abuse@smartape.net
-91.184.250.0                   abuse@smartape.net
-91.199.147.0                   abuse@smartape.net
 91.202.5.0                     abuse@sollutium.com
-91.219.150.0                   abuse@smartape.ru
 91.235.234.0                   abuse@bluevps.com
-92.61.70.0                     abuse@smartape.net
-92.61.71.0                     abuse@smartape.net
 92.118.26.0                    abuse@gyumolcstarhely.hu
 93.95.227.0                    abuse@1984.is
 93.95.228.0                    abuse@1984.is
@@ -152,8 +143,6 @@
 104.243.42.0                    complaints@reliablesite.net complaints@reliablesite.net
 104.250.173.0                   abuse@virtualine.org admin@pointtoserver.com
 109.61.41.0                    abuse@gcore.lu
-109.172.8.0                    abuse@smartape.net
-109.238.94.0                   abuse@smartape.net
 116.251.216.0                  abuse@oneasiahost.com
 119.59.101.0                   abuse@metrabyte.cloud
 119.59.113.0                   abuse@metrabyte.cloud
@@ -170,7 +159,6 @@
 138.226.247.0                  abuse@sollutium.com   abuse@ripe.net
 139.84.169.0                    abuse@constant.com abuse@vultr.com
 139.99.160.0                    abuse@ovh.ca noc@ovh.net noc@ovh.net
-141.133.174.0                  abuse@smartape.net   abuse@ripe.net
 141.195.117.0                   abuse@radwebhosting.com abuse@radwebhosting.com
 141.195.119.0                   abuse@radwebhosting.com abuse@radwebhosting.com
 142.248.180.0                   abuse@scalahosting.com abuse@scalahosting.com
