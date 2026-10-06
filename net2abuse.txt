@@ -51,6 +51,8 @@
 51.77.102.0                    abuse@ovh.net
 51.161.0.0/16                  51.162.127.255
 51.162.0.0/17                  51.162.127.255
+57.129.167.0                   abuse@ovh.net   abuse@ripe.net
+57.129.168.0                   abuse@ovh.net   abuse@ripe.net
 63.143.38.0                     abuse@limestonenetworks.com abuse@limestonenetworks.com
 64.50.188.0                     net-abuse-global@hostpapa.com report@abuseradar.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
 64.235.34.0                     noc@serverpoint.com noc@serverpoint.com
@@ -227,7 +229,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0                   report@abuseradar.com
+191.101.59.0
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
