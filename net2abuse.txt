@@ -53,6 +53,8 @@
 51.162.0.0/17                  51.162.127.255
 57.129.167.0                   abuse@ovh.net   abuse@ripe.net
 57.129.168.0                   abuse@ovh.net   abuse@ripe.net
+57.129.171.0                   abuse@ovh.net   abuse@ripe.net
+57.129.173.0                   abuse@ovh.net   abuse@ripe.net
 57.129.175.0                   abuse@ovh.net   abuse@ripe.net
 63.143.38.0                     abuse@limestonenetworks.com abuse@limestonenetworks.com
 64.50.188.0                     net-abuse-global@hostpapa.com report@abuseradar.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
@@ -109,6 +111,7 @@
 89.34.25.0                     abuse@hzone.ro
 89.41.182.0                    abuse@hzone.ro
 89.106.74.0                    abuse@ghostnet.de
+89.117.172.0                   report@abuseradar.com
 89.126.248.0                   abuse@1984.is
 89.126.249.0                   abuse@1984.is
 91.98.224.0                    abuse@hetzner.com
