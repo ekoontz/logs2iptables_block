@@ -111,6 +111,7 @@
 89.34.25.0                     abuse@hzone.ro
 89.41.182.0                    abuse@hzone.ro
 89.106.74.0                    abuse@ghostnet.de
+89.116.246.0                   report@abuseradar.com
 89.117.172.0                   report@abuseradar.com
 89.126.248.0                   abuse@1984.is
 89.126.249.0                   abuse@1984.is

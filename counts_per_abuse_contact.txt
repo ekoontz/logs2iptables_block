@@ -115,7 +115,7 @@
       7 abuse@dogado.de
       7 abuse@ovh.net
       7 abuse@zap-hosting.com
-      7 report@abuseradar.com
       8 abuse@akamai.com
+      8 report@abuseradar.com
       9 net-abuse-global@hostpapa.com
      10 audit@power-servers.net
