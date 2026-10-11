@@ -23,7 +23,7 @@
 38.127.61.0                     abuse@cogentco.com abuse@cogentco.com
 38.145.199.0                    abuse@cogentco.com abuse@cogentco.com
 38.145.212.0                    abuse@cogentco.com abuse@cogentco.com
-38.145.215.0                    abuse@cogentco.com
+38.145.215.0                    abuse@cogentco.com abuse@cogentco.com
 45.13.214.0                    abuse@rarecloud.io
 45.32.128.0                     abuse@constant.com abuse@vultr.com
 45.33.2.0                       abuse@akamai.com abuse@linode.com
@@ -164,6 +164,7 @@
 132.243.166.0                  vplab.abuse@gmail.com   abuse@ripe.net
 135.148.42.0                    abuse@ovh.us abuse@ovh.us
 136.152.250.0                   abuse@security.berkeley.edu
+136.243.92.0                   abuse@hetzner.com   abuse@ripe.net
 137.184.151.0                   abuse@digitalocean.com
 138.226.247.0                  abuse@sollutium.com   abuse@ripe.net
 139.84.169.0                    abuse@constant.com abuse@vultr.com
@@ -237,7 +238,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0
+191.101.59.0                   report@abuseradar.com
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
