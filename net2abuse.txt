@@ -45,12 +45,13 @@
 46.36.40.0                     abuse@gtt-as.cz
 46.36.44.0                     abuse@gtt-as.cz
 46.224.20.0                    abuse@hetzner.com
-47.245.195.0                    abuse@alibaba-inc.com
+47.245.195.0                    intl-abuse@list.alibaba-inc.com
 50.2.0.0/15                     net-admin@eonix.net net-admin@eonix.net
 51.38.95.0                     didkovskavaleriia@gmail.com
 51.77.102.0                    abuse@ovh.net
 51.161.0.0/16                  51.162.127.255
 51.162.0.0/17                  51.162.127.255
+51.222.36.0                    51.222.255.255
 57.129.167.0                   abuse@ovh.net   abuse@ripe.net
 57.129.168.0                   abuse@ovh.net   abuse@ripe.net
 57.129.171.0                   abuse@ovh.net   abuse@ripe.net
@@ -124,12 +125,13 @@
 93.95.227.0                    abuse@1984.is
 93.95.228.0                    abuse@1984.is
 93.99.105.0                    abuse@vodafone.cz
+93.125.18.0                    abuse@cloudpark.by
 93.185.167.0                   abuse@alexhost.com
 94.73.223.0                    hostmanager@orionnet.ru
-94.142.140.0                   audit@power-servers.net
-94.142.142.0                   audit@power-servers.net
+94.142.140.0                   audit@p-servers.net
+94.142.142.0                   audit@p-servers.net
 94.247.177.0                   abuse@magic.fr
-95.81.124.0                    audit@power-servers.net
+95.81.124.0                    audit@p-servers.net
 102.203.81.0                   102.203.81.255
 102.203.82.0                   102.203.82.255
 102.206.117.0                  102.206.117.255
@@ -183,11 +185,11 @@
 148.135.106.0                  report@abuseradar.com   abuse@ripe.net
 149.28.195.0                    abuse@constant.com abuse@vultr.com
 149.28.213.0                    abuse@constant.com abuse@vultr.com
-151.247.171.0                  mansiyadav@mainvps.net   abuse@ripe.net
+151.247.171.0                  report@abuseradar.com   abuse@ripe.net
 154.29.75.0                    154.29.255.255
 154.58.229.0                   154.58.255.255
 156.241.0.0                    156.241.0.255   abusepoc@afrinic.net
-157.228.140.0                  audit@power-servers.net   abuse@ripe.net
+157.228.140.0                  audit@p-servers.net   abuse@ripe.net
 162.246.21.0                    abusencc@interserver.net
 162.246.22.0                    abusencc@interserver.net bgoldin@hotmail.com
 162.246.23.0                    abusencc@interserver.net
@@ -211,17 +213,17 @@
 176.102.67.0                   abuse@securitynet.cz
 178.105.176.0                  abuse@hetzner.com
 178.218.160.0                  abuse@plus.hr
-185.5.249.0                    audit@power-servers.net
-185.5.251.0                    audit@power-servers.net
+185.5.249.0                    audit@p-servers.net
+185.5.251.0                    audit@p-servers.net
 185.48.248.0                   noc@eserver.sk
 185.48.249.0                   noc@eserver.sk
 185.52.207.0                   abuse@delta.bg
 185.59.103.0                   abuse@sim-networks.com
 185.62.75.0                    abuse@setcor.com
-185.87.48.0                    audit@power-servers.net
-185.87.49.0                    audit@power-servers.net
-185.87.50.0                    audit@power-servers.net
-185.87.51.0                    audit@power-servers.net
+185.87.48.0                    audit@p-servers.net
+185.87.49.0                    audit@p-servers.net
+185.87.50.0                    audit@p-servers.net
+185.87.51.0                    audit@p-servers.net
 185.92.223.0                   abuse@vultr.com
 185.99.232.0                   abuse@ciberconceito.com
 185.116.215.0                  abuse@krystal.io
