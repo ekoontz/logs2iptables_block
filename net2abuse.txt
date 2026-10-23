@@ -47,7 +47,7 @@
 46.224.20.0                    abuse@hetzner.com
 47.245.195.0                    intl-abuse@list.alibaba-inc.com
 50.2.0.0/15                     net-admin@eonix.net net-admin@eonix.net
-51.38.95.0                     didkovskavaleriia@gmail.com
+51.38.95.0                     abuse@ovh.net
 51.77.102.0                    abuse@ovh.net
 51.161.0.0/16                  51.162.127.255
 51.162.0.0/17                  51.162.127.255
@@ -76,6 +76,7 @@
 74.48.78.0                      abuse@telus.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
 74.125.227.0                    network-abuse@google.com
 77.32.148.0                    abuse@brevo.com
+77.37.65.0                     report@abuseradar.com
 77.42.64.0                     abuse@hetzner.com
 77.81.244.0                    abuse@elvsoft.com
 78.27.235.0                    noc@mirohost.net
@@ -114,6 +115,7 @@
 89.34.25.0                     abuse@hzone.ro
 89.41.182.0                    abuse@hzone.ro
 89.106.74.0                    abuse@ghostnet.de
+89.116.72.0                    report@abuseradar.com
 89.116.246.0                   report@abuseradar.com
 89.117.172.0                   report@abuseradar.com
 89.126.248.0                   abuse@1984.is
@@ -150,8 +152,8 @@
 104.238.220.0                   complaints@reliablesite.net
 104.238.221.0                   complaints@reliablesite.net
 104.238.222.0                   complaints@reliablesite.net
-104.243.37.0                    complaints@reliablesite.net complaints@reliablesite.net
-104.243.42.0                    complaints@reliablesite.net complaints@reliablesite.net
+104.243.37.0                    complaints@reliablesite.net
+104.243.42.0                    complaints@reliablesite.net
 104.250.173.0                   abuse@virtualine.org admin@pointtoserver.com
 109.61.41.0                    abuse@gcore.lu
 116.251.216.0                  abuse@oneasiahost.com
@@ -202,12 +204,15 @@
 170.249.0.0                     noc@pfnllc.net
 170.249.233.0                   abuse@privatesystems.net abuse@privatesystems.net
 170.249.234.0                   abuse@privatesystems.net abuse@privatesystems.net
+172.93.187.0                    abuse@nexeontech.com abuse@greenserver.io
 172.96.9.0                      contact@heymman.com contact@heymman.com
 172.104.24.0                    abuse@akamai.com abuse@linode.com
 172.105.39.0                    abuse@akamai.com abuse@linode.com
 172.105.49.0                    abuse@akamai.com abuse@linode.com
 172.105.189.0                   abuse@akamai.com abuse@linode.com
+172.237.104.0                   abuse@akamai.com abuse@linode.com
 172.245.43.0                    net-abuse-global@hostpapa.com net-abuse-global@hostpapa.com
+173.208.176.0                   abuse@nocix.net abuse@nocix.net
 173.224.118.0                   abuse@velia.net
 173.224.125.0                   abuse@velia.net
 176.102.67.0                   abuse@securitynet.cz
@@ -240,7 +245,7 @@
 185.255.21.0                   dpto.tecnico@ispgestion.com
 188.164.198.0                  abuse@axarnet.es
 190.97.165.0
-191.101.59.0
+191.101.59.0                   report@abuseradar.com
 192.65.20.0                     abuse@elasticemail.net
 192.119.110.0                   net-abuse-global@hostpapa.com
 192.210.216.0                   net-abuse-global@hostpapa.com
@@ -254,6 +259,7 @@
 193.181.216.0                  support@webdock.io
 193.181.217.0                  support@webdock.io
 194.36.45.0                    abuse@setcor.com
+194.62.249.0                   george@ethernetservers.com
 194.102.33.0                   abuse-clouddatahosting@rnc.ro
 194.156.89.0                   abuse@zap-hosting.com
 194.156.90.0                   abuse@zap-hosting.com
