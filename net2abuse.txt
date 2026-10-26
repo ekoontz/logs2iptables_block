@@ -1,4 +1,5 @@
 2.28.124.0                     abuse@hetzner.com
+2.59.21.0                      abuse@black.host
 5.11.83.0                      abuse@webzilla.com
 5.83.45.0                      abuse@nxthost.com
 5.101.216.0                    abuse@gcore.lu
@@ -38,6 +39,7 @@
 45.128.62.0                    abuse@scalabledns.com
 45.136.151.0                   abuse@scalabledns.com
 45.148.28.0                    support@webdock.io
+45.195.250.0                   45.195.250.255
 46.22.209.0                    abuse@wavecom.ee
 46.28.68.0                     abuse@route95.net
 46.36.35.0                     abuse@gtt-as.cz
@@ -60,6 +62,7 @@
 57.129.178.0                   abuse@ovh.net   abuse@ripe.net
 63.143.38.0                     abuse@limestonenetworks.com abuse@limestonenetworks.com
 64.50.188.0                     net-abuse-global@hostpapa.com report@abuseradar.com abuse@ipxo.com report@abuseradar.com report@abuseradar.com
+64.177.132.0                    abuse@constant.com
 64.235.34.0                     noc@serverpoint.com noc@serverpoint.com
 64.235.39.0                     noc@serverpoint.com
 64.235.46.0                     noc@serverpoint.com noc@serverpoint.com
@@ -116,6 +119,7 @@
 89.41.182.0                    abuse@hzone.ro
 89.106.74.0                    abuse@ghostnet.de
 89.116.72.0                    report@abuseradar.com
+89.116.198.0                   report@abuseradar.com
 89.116.246.0                   report@abuseradar.com
 89.117.172.0                   report@abuseradar.com
 89.126.248.0                   abuse@1984.is
