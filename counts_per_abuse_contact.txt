@@ -1,3 +1,4 @@
-      1 abuse@2cloud.eu
+      1 abuse@greenserver.io
+      1 abusencc@interserver.net
       1 abuse@ovh.net
-      2 net-abuse-global@hostpapa.com
+      2 abuse@ovh.us

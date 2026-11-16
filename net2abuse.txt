@@ -1,4 +1,5 @@
-57.129.173.0                   abuse@ovh.net   abuse@ripe.net
-104.168.136.0                   net-abuse-global@hostpapa.com
-104.168.146.0                   net-abuse-global@hostpapa.com
-185.176.220.0                  abuse@2cloud.eu
+40.160.87.0                     abuse@ovh.us noc@ovh.net
+57.129.153.0                   abuse@ovh.net   abuse@ripe.net
+135.148.219.0                   abuse@ovh.us noc@ovh.net
+192.64.86.0                     abusencc@interserver.net bgoldin@hotmail.com
+193.3.174.0                    abuse@greenserver.io
